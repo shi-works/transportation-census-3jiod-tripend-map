@@ -174,9 +174,9 @@
                     'circle-radius': [
                         'step',
                         ['get', 'sum_count'],
-                        20, // 初期サイズ
-                        500000, 30, // 5000件以上の場合、半径30
-                        1000000, 40  // 10000件以上の場合、半径40
+                        25, // 初期サイズ
+                        500000, 35, // 5000件以上の場合、半径30
+                        1000000, 45  // 10000件以上の場合、半径40
                     ],
                     // クラスターサイズに基づいて円の色を変更
                     'circle-color': [
@@ -204,7 +204,7 @@
                         }
                     ],
                     'text-font': ['DIN Offc Pro Medium', 'Arial Unicode MS Bold'],
-                    'text-size': 12
+                    'text-size': 13
                 },
                 paint: {
                     'text-color': 'rgba(255, 255, 255, 1)',
@@ -222,7 +222,7 @@
                 filter: ['!', ['has', 'sum_count']],
                 paint: {
                     'circle-color': '#11b4da',
-                    'circle-radius': 4,
+                    'circle-radius': 6,
                     'circle-stroke-width': 1,
                     'circle-stroke-color': '#fff'
                 }
@@ -238,14 +238,14 @@
                 layout: {
                     'text-field': ['concat', ['get', '駅名'], '\n', ['get', '件数']],
                     'text-font': ['Open Sans Semibold', 'Arial Unicode MS Bold'],
-                    'text-size': 10,
-                    'text-offset': [0, -1.2]
+                    'text-size': 11,
+                    'text-offset': [0, -2]
                 },
                 paint: {
                     'text-color': 'rgba(255, 255, 255, 1)',
-                    'text-halo-blur': 1,
+                    'text-halo-blur': 0.5,
                     'text-halo-color': 'rgba(0, 0, 0, 1)',
-                    'text-halo-width': 2
+                    'text-halo-width': 1
                 }
             });
         })
