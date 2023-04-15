@@ -1,6 +1,8 @@
 # transportation-census-3jiod-tripend-map
 ## デモサイト
-https://shi-works.github.io/transportation-census-3jiod-tripend-map/
+- https://shi-works.github.io/transportation-census-3jiod-tripend-map/
+- サンプル画像
+![image](https://user-images.githubusercontent.com/71203808/232194673-9ef94086-dfed-4ac5-9bdc-f42a288f3954.png)
 
 # データ加工
 ## tripend_syuk.py
