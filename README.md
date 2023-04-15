@@ -1,9 +1,10 @@
 # transportation-census-3jiod-tripend-map
-
+## デモサイト
 https://shi-works.github.io/transportation-census-3jiod-tripend-map/
 
 # データ加工
 ## tripend_syuk.py
+- [3次OD集計データ](https://github.com/shi-works/transportation-census-3jiod-pmtiles)をもとに、駅別の発生集中量（トリップエンド）を集計するプログラムです。
 ### 使用データ
 - 3次OD集計データ
 - 2021年12月某日1日目  
