@@ -13,6 +13,8 @@ https://shi-works.github.io/transportation-census-3jiod-tripend-map/
 
 ### 出力結果
 - 2021年12月某日1日目  
+`https://github.com/shi-works/transportation-census-3jiod-tripend-map/blob/main/202112_1_3jiod_tripend.csv`
 `https://github.com/shi-works/transportation-census-3jiod-tripend-map/blob/main/202112_1_3jiod_tripend.geojson`
 - 2021年12月某日2日目  
+`https://github.com/shi-works/transportation-census-3jiod-tripend-map/blob/main/202112_2_3jiod_tripend.csv`
 `https://github.com/shi-works/transportation-census-3jiod-tripend-map/blob/main/202112_2_3jiod_tripend.geojson`
