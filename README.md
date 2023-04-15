@@ -18,3 +18,11 @@ https://shi-works.github.io/transportation-census-3jiod-tripend-map/
 - 2021年12月某日2日目  
 `https://github.com/shi-works/transportation-census-3jiod-tripend-map/blob/main/202112_2_3jiod_tripend.csv`  
 `https://github.com/shi-works/transportation-census-3jiod-tripend-map/blob/main/202112_2_3jiod_tripend.geojson`
+
+# ライセンス
+本データセット（使用データ及び出力結果）は[CC-BY-4.0](https://github.com/shi-works/traffic-accident-pmtiles/blob/main/LICENSE)で提供されます。使用の際には本レポジトリへのリンクを提示してください。
+
+また、本データセットは、第13回大都市交通センサスの3次ODデータを加工して作成したものです。本データセットの使用・加工にあたっては、[国土交通省のリンク・著作権・免責事項](https://www.mlit.go.jp/link.html)を必ずご確認ください。
+
+# 免責事項
+利用者が当該データを用いて行う一切の行為について何ら責任を負うものではありません。
